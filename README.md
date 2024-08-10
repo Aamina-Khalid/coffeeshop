@@ -7,7 +7,7 @@ Insert gif or link to demo:
 https://aamina-khalid.github.io/coffeeshop/
 
 ## Deployment
-To deploy this project run
+To deploy this project.
 
 Create A Repository.
 
