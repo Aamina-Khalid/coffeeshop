@@ -1,5 +1,14 @@
  ## Coffee Shop Landing Page
-A mixup of Frontend Technologies with a bit touch of UI/UX Designs A coffee Shop Landing Page built by me is live now. Creating Responsive Layouts is the hardest part in website building, and this landing page not only gives creative layout but a responsive touch to it also.
+
+This landing page for a coffee shop, designed with HTML, CSS, and JavaScript, provides a visually appealing introduction to the coffee shop's brand. The page is crafted to create an inviting atmosphere with modern design elements and interactive features.
+
+Features:
+
+Responsive Design: Ensures the page looks great on all devices, from desktops to mobile phones.
+
+Visual Appeal: Utilizes high-quality images and sleek animations to create an inviting online presence.
+
+
 
 ## Demo
 Insert gif or link to demo:
